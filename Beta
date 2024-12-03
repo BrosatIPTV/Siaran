@@ -1,16 +1,1 @@
-#EXTM3U
-#EXTINF:0 group-title="Lokal",RIA
-http://d37lxn4ksn51zz.cloudfront.net/ria.mpd
-
-#EXTINF:0 group-title="Korea & Japan",Sony Gem
-http://d37lxn4ksn51zz.cloudfront.net/prima.mpd
-
-#EXTINF:0 group-title="Korea & Japan",Sony One
-http://210.210.155.35/uq2663/h/h143/01.m3u8
-
-#EXTINF:0 group-title="Korea & Japan",Waku Waku Japan
-https://anevia115.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan-avc1_2499968=11-mp4a_98800_eng=3.m3u8
-#EXTINF:0 group-title="Korea & Japan",tvN
-https://anevia115.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_eng=5.m3u8
-#EXTINF:0 group-title="Korea & Japan",tvN Movies
-https://anevia115.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_66000_eng=2.m3u8
+KOSONG
