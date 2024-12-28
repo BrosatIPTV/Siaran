@@ -356,11 +356,15 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #http://d14sysfrzu8fji.cloudfront.net/ria.mpd
 http://31.42.187.37:25461/watchpad13158/1234/68
 
-https://lh3.googleusercontent.com/-dq4yD7JAfUw/XrlU4ca5YtI/AAAAAAAAARo/maQcHPj3yPEdbAhnIPxSoEz78XSD3vtNQCLcBGAsYHQ/h120/ria-01.png
+
+#EXTINF: 1 group-title="Malaysia (HD)"  tvg-logo="https://lh3.googleusercontent.com/-dq4yD7JAfUw/XrlU4ca5YtI/AAAAAAAAARo/maQcHPj3yPEdbAhnIPxSoEz78XSD3vtNQCLcBGAsYHQ/h120/ria-01.png",Ria HD
 http://31.42.187.37:25461/watchpad13158/1234/68
 
 #EXTINF: 1 group-title="Malaysia (HD)"  tvg-logo="https://lh3.googleusercontent.com/-MjYlMkK_Lvw/XrlTL235JSI/AAAAAAAAARY/odkw8W1rCqY78Apb37bwOpbhDVXwK75fQCLcBGAsYHQ/h120/prima-01.png",Prima HD
 http://31.42.187.37:25461/watchpad13158/1234/65
+
+https://lh3.googleusercontent.com/-4cP0hSjjCXw/XrlWeew_V4I/AAAAAAAAASA/-daijARHKe8WfNZ-GU2zXSdEoxobTcd3QCLcBGAsYHQ/h120/citrahd-01.png
+http://31.42.187.37:25461/watchpad13158/1234/6316
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png" tvg-chno="101" channel-id="101" group-title="Malaysia",TV1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
