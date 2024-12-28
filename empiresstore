@@ -360,7 +360,7 @@ http://31.42.187.37:25461/watchpad13158/1234/68
 #EXTINF: 1 group-title="Malaysia (HD)"  tvg-logo="https://lh3.googleusercontent.com/-dq4yD7JAfUw/XrlU4ca5YtI/AAAAAAAAARo/maQcHPj3yPEdbAhnIPxSoEz78XSD3vtNQCLcBGAsYHQ/h120/ria-01.png",Ria HD
 http://31.42.187.37:25461/watchpad13158/1234/68
 
-#EXTINF:-1 group-title="Malaysia (HD)" tvg-logo="https://lh3.googleusercontent.com/-4cP0hSjjCXw/XrlWeew_V4I/AAAAAAAAASA/-daijARHKe8WfNZ-GU2zXSdEoxobTcd3QCLcBGAsYHQ/h120/citrahd-01.png",Citra HD
+#EXTINF: 1 group-title="Malaysia (HD)"  tvg-logo="https://lh3.googleusercontent.com/-MjYlMkK_Lvw/XrlTL235JSI/AAAAAAAAARY/odkw8W1rCqY78Apb37bwOpbhDVXwK75fQCLcBGAsYHQ/h120/prima-01.png",Prima HD
 http://31.42.187.37:25461/watchpad13158/1234/65
 
 #EXTINF:-1 group-title="Malaysia (HD)" tvg-logo="https://lh3.googleusercontent.com/-4cP0hSjjCXw/XrlWeew_V4I/AAAAAAAAASA/-daijARHKe8WfNZ-GU2zXSdEoxobTcd3QCLcBGAsYHQ/h120/citrahd-01.png",Citra HD
